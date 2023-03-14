@@ -1,0 +1,6 @@
+@inproceedings{REPO-267,
+    author = "Boopathy, Akhilan and Weng, Tsui-Wei and Chen, Pin-Yu and Liu, Sijia and Daniel, Luca",
+    booktitle = "AAAI",
+    title = "{CNN-Cert: An Efficient Framework for Certifying Robustness of Convolutional Neural Networks}",
+    year = "2019"
+}
